@@ -1,0 +1,137 @@
+#logo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.centre {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	;
+
+}
+
+.searchbar { 
+	display: flex;
+	justify-content: center;
+	padding-bottom: 30px;
+	
+}
+
+.se {
+	border-radius: 50px;
+	width: 35%;
+}
+
+
+ .hdr {
+ 	display: flex;
+ 	justify-content: flex-end;
+ 	 }
+
+ 
+
+.blanktop { height: 180px; }
+
+
+.btns {
+ 	display: flex;
+ 	flex-direction: row;
+ 	justify-content: center;
+ 	 }
+
+.gmail {
+padding-left: 40px;
+padding-right: 40px;
+padding-top: 30px;
+}
+
+.image {
+	
+padding-right: 40px;
+padding-top: 30px;
+}
+
+.apps { 
+
+padding-right: 40px;
+padding-top: 10px
+ }
+
+.sign {
+
+padding-right: 40px;
+padding-top: 10px;
+
+ }
+
+ .btnsu {
+ 	height: 80px;
+width: 100px;
+background-color: blue;
+color: white;
+ }
+
+body {
+	font-family: Arial;
+}
+
+.fooot {
+position: fixed;bottom: 0;
+padding-left: 40px;
+}
+
+.btngsearch {
+	cursor: pointer;
+	margin-right: 30px
+}
+
+.btnlucky {
+	cursor: pointer;
+}
+
+
+.foot {
+	display: flex;
+cursor: pointer;
+justify-content: space-between;
+padding-bottom: 40px
+}
+
+.sec {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.ad {
+	padding-right: 40px;
+}
+
+.business {
+	padding-right: 40px;
+}
+
+.about {
+	padding-right: 40px;
+}
+
+.works {
+	padding-right: 1670px;
+}
+
+.cons {
+	padding-right: 40px;
+}
+
+.privacy {
+	padding-right: 40px;
+}
+
+.terms {
+	padding-right: 40px;
+}
+
+.set {
+	padding-right: 40px;
+}
