@@ -1,0 +1,99 @@
+#logo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.centre {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	;
+
+}
+
+.searchbar{ 
+	display: flex;
+	justify-content: center;
+	padding-bottom: 30px;
+	
+ }
+.se {
+	border-radius: 50px;
+	width: 35%;
+}
+
+
+ .hdr {
+ 	display: flex;
+ 	justify-content: flex-end;
+ 	 }
+
+ .all {
+
+ 	display: flex;
+ 	flex-direction: column;
+ 	justify-content: space-between;
+ 	
+ }
+
+
+
+.blanktop { height: 180px; }
+
+
+.btns {
+ 	display: flex;
+ 	flex-direction: row;
+ 	justify-content: center;
+ 	 }
+
+.gmail {
+padding-left: 40px;
+padding-right: 40px;
+padding-top: 30px;
+}
+
+.image {
+	
+padding-right: 40px;
+padding-top: 30px;
+}
+
+.apps { 
+
+padding-right: 40px;
+padding-top: 10px
+ }
+
+.sign {
+
+padding-right: 40px;
+padding-top: 10px;
+
+ }
+
+ .btnsu {
+ 	height: 80px;
+width: 100px;
+background-color: blue;
+color: white;
+ }
+
+body {
+	font-family: Arial;
+}
+
+.fooot {
+position: fixed;bottom: 0;
+cursor: pointer;
+}
+
+.btngsearch {
+	cursor: pointer;
+	margin-right: 30px
+}
+
+.btnlucky {
+	cursor: pointer;
+}
